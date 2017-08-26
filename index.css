@@ -18,7 +18,12 @@ body {
 
 .section .wrapper {
     max-width: 680px;
+    width: 100%;
     padding: 32px;
+}
+
+.section .items li {
+    margin: 24px 0;
 }
 
 /* Typography */
@@ -92,7 +97,7 @@ ul {
 }
 
 .detail.headline {
-    margin-bottom: 24px;
+    margin-bottom: 12px;
 }
 
 .detail.headline .title {
