@@ -77,6 +77,12 @@ h3 {
     padding: 2px;
 }
 
+.subheader {
+    color: #a4a4a4;
+    font-size: 13px;
+    font-weight: bold;
+}
+
 /* Overrides */
 ul {
     list-style: none;
@@ -102,6 +108,11 @@ ul {
 
 #links li {
     margin-right: 16px;
+}
+
+#links .logo {
+    height: 20px;
+    width: 20px;
 }
 
 .detail.headline {
