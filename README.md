@@ -4,8 +4,8 @@
 - [x] Layout
 - [x] Typography
 - [x] Basic information
-- [ ] Profile links icons
-- [ ] Company icons
+- [x] Profile links icons
+- [x] Company icons
 - [ ] Job description
 - [ ] Education description
 - [ ] Add some quirky design
