@@ -4,6 +4,10 @@ body {
     margin: 0;
 }
 
+img:not([src]){
+    visibility: hidden;
+}
+
 /* Layout */
 .section {
     background-color: #eee;
