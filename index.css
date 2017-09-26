@@ -22,8 +22,16 @@ body {
     padding: 32px;
 }
 
-.section .items li {
+.section .items .item {
     margin: 24px 0;
+}
+
+.section .items .logo {
+    height: 58px;
+    width: 58px;
+    object-fit: cover;
+    float: left;
+    margin-right: 16px;
 }
 
 /* Typography */
