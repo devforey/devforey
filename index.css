@@ -27,7 +27,7 @@ img:not([src]){
 }
 
 .section .item {
-    margin: 24px 0;
+    margin: 24px 0 48px 0;
     position: relative;
 }
 
