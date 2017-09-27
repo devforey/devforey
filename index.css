@@ -43,7 +43,7 @@ img:not([src]){
 
 /* Typography */
 h1 {
-    color: #555;
+    color: white;
     font-size: 32px;
     line-height: 44px;
     font-weight: normal;
@@ -103,6 +103,14 @@ ul {
 }
 
 /* Specifics */
+#intro {
+    background-color: #1d1d1d;
+}
+
+#intro .highlight {
+    color: #555;
+}
+
 #intro .wrapper {
     width: 100%;    
 }
