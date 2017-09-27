@@ -4,8 +4,9 @@
 - [x] Layout
 - [x] Typography
 - [x] Basic information
-- [ ] Profile links icons
-- [ ] Company icons
-- [ ] Job description
-- [ ] Education description
+- [x] Profile links icons
+- [x] Company icons
+- [x] Initial Job description
+- [ ] ~Education description~
+- [ ] Make the company name as links to the company website
 - [ ] Add some quirky design
