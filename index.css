@@ -26,16 +26,19 @@ img:not([src]){
     padding: 32px;
 }
 
-.section .items .item {
+.section .item {
     margin: 24px 0;
+    position: relative;
 }
 
-.section .items .logo {
-    height: 64px;
-    width: 64px;
-    object-fit: cover;
-    float: left;
-    margin-right: 16px;
+.section .item .logo {
+    position: absolute;
+}
+
+.section .item .detail {
+    top: 0px;
+    margin-left: 56px;
+    padding-left: 16px;
 }
 
 /* Typography */
@@ -128,10 +131,22 @@ ul {
     filter: none;
 }
 
-.detail.headline {
-    margin-bottom: 12px;
+.item {
 }
 
-.detail.headline .title {
-    margin-bottom: 0;
+.item .logo {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+}
+
+.item .detail {
+}
+
+.item .detail .title {
+    margin: 0;
+}
+
+.item .detail .headline {
+    margin-bottom: 12px;
 }
