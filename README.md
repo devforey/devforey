@@ -1,4 +1,4 @@
-# devforey.github.io
+# devforey
 > My page/portfolio
 
 - [x] Layout
